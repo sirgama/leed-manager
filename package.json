@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/sirgama/leed-manager/issues"
   },
-  "homepage": "https://github.com/sirgama/leed-manager#readme"
+  "homepage": "https://github.com/sirgama/leed-manager#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
 }
